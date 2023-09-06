@@ -373,6 +373,7 @@ section .title::after{
     color: #fff;
     padding: 20px;
     font-size: large;
+    text-align: justify;
 }
 
 /* choose section styling */
